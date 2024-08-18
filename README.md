@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devarshi226&label=Profile%20views&color=0e75b6&style=flat" alt="devarshi226" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devarshi226" alt="devarshi226" /></a> </p>
-
 - 🔭 I’m currently working on **FormanTechnoForge**
 
 - 🌱 I’m currently learning **NodeJs, kafka Server**
@@ -17,7 +15,7 @@
 
 - 📄 Know about my experiences [https://github.com/Devarshi226/Resume](https://github.com/Devarshi226/Resume)
 
-- ⚡ Fun fact **I am lazy when it comes to writing long codes, but when it's about UI, I forget that I'm lazy.**
+- ⚡ Fun fact **I am lazy when it comes to writing long codes, but when it's about UI, I forget that I'm lazy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
