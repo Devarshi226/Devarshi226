@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devarshi226&label=Profile%20views&color=0e75b6&style=flat" alt="devarshi226" /> </p>
 
-- 🔭 I’m currently working on **FormanTechnoForge**
+- 🔭 I’m currently working on **FormanTechnoForge Industry Catalog**
 
 - 🌱 I’m currently learning **NodeJs, kafka Server**
 
