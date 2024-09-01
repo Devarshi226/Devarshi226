@@ -15,7 +15,6 @@
 
 - 📄 Know about my experiences [https://github.com/Devarshi226/Resume](https://github.com/Devarshi226/Resume)
 
-- ⚡ Fun fact **I am lazy when it comes to writing long codes, but when it's about UI, I forget that I'm lazy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
